@@ -24,32 +24,32 @@ This project demonstrates how Excel can be used to create:
 ## 📷 Project Screenshots
 
 ### Dashboard
-![Dashboard](./Dashboard.jpeg)
+![Dashboard](https://raw.githubusercontent.com/balikushal83-cloud/Excel/main/Dashboard.jpeg)
 
 ### Category Guide
-![Category Guide](./category_guide.jpeg)
+![Category Guide](https://raw.githubusercontent.com/balikushal83-cloud/Excel/main/category_guide.jpeg)
 
 ### Customer Summary
-![Customer Summary](./customer_summary.jpeg)
+![Customer Summary](https://raw.githubusercontent.com/balikushal83-cloud/Excel/main/customer_summary.jpeg)
 
 ---
 
 ## 📂 Files Included
 
-- `Dashboard.jpeg` → Main dashboard preview
-- `category_guide.jpeg` → Category analysis view
-- `customer_summary.jpeg` → Customer analytics summary
+- Dashboard preview
+- Category analysis report
+- Customer analytics summary
 
 ---
 
 ## 🚀 How to Use
 
 1. Clone this repository
-2. Open project files in Microsoft Excel
-3. Explore dashboards and analytics reports
+2. Open Excel files
+3. Explore dashboards and analytics
 
 ```bash
-git clone https://github.com/your-username/Excel.git
+git clone https://github.com/balikushal83-cloud/Excel.git
 ```
 
 ---
